@@ -1,0 +1,11 @@
+C:\Users\happy\Desktop\Arbeitssuche\exxcellent\programming-challenge\C#\exxcellentChallenge\bin\Debug\netcoreapp2.1\exxcellentChallenge.deps.json
+C:\Users\happy\Desktop\Arbeitssuche\exxcellent\programming-challenge\C#\exxcellentChallenge\bin\Debug\netcoreapp2.1\exxcellentChallenge.runtimeconfig.json
+C:\Users\happy\Desktop\Arbeitssuche\exxcellent\programming-challenge\C#\exxcellentChallenge\bin\Debug\netcoreapp2.1\exxcellentChallenge.runtimeconfig.dev.json
+C:\Users\happy\Desktop\Arbeitssuche\exxcellent\programming-challenge\C#\exxcellentChallenge\bin\Debug\netcoreapp2.1\exxcellentChallenge.dll
+C:\Users\happy\Desktop\Arbeitssuche\exxcellent\programming-challenge\C#\exxcellentChallenge\bin\Debug\netcoreapp2.1\exxcellentChallenge.pdb
+C:\Users\happy\Desktop\Arbeitssuche\exxcellent\programming-challenge\C#\exxcellentChallenge\obj\Debug\netcoreapp2.1\exxcellentChallenge.csprojAssemblyReference.cache
+C:\Users\happy\Desktop\Arbeitssuche\exxcellent\programming-challenge\C#\exxcellentChallenge\obj\Debug\netcoreapp2.1\exxcellentChallenge.csproj.CoreCompileInputs.cache
+C:\Users\happy\Desktop\Arbeitssuche\exxcellent\programming-challenge\C#\exxcellentChallenge\obj\Debug\netcoreapp2.1\exxcellentChallenge.AssemblyInfoInputs.cache
+C:\Users\happy\Desktop\Arbeitssuche\exxcellent\programming-challenge\C#\exxcellentChallenge\obj\Debug\netcoreapp2.1\exxcellentChallenge.AssemblyInfo.cs
+C:\Users\happy\Desktop\Arbeitssuche\exxcellent\programming-challenge\C#\exxcellentChallenge\obj\Debug\netcoreapp2.1\exxcellentChallenge.dll
+C:\Users\happy\Desktop\Arbeitssuche\exxcellent\programming-challenge\C#\exxcellentChallenge\obj\Debug\netcoreapp2.1\exxcellentChallenge.pdb
